@@ -1,4 +1,5 @@
-안녕하세요 개발자 김시윤입니다
+안녕하세요🙋🏻‍♀️<br/>
+개발자 김시윤입니다
 
 <h2 align="left">Stats</h2>
 <div align="center">
@@ -16,16 +17,16 @@
   <img alt='mysql' src='https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql&logoColor=407297&labelColor=FFFFFF&color=FFFFFF'/>
   <img alt='javascript' src='https://img.shields.io/badge/JAVASCRIPT-100000?style=for-the-badge&logo=javascript&logoColor=EFD250&labelColor=FFFFFF&color=FFFFFF'/>
   <br/>
-<img alt='php' src='https://img.shields.io/badge/Node.js-100000?style=for-the-badge&logo=Node.js&logoColor=7377AE&labelColor=FFFFFF&color=FFFFFF'/>
-  <img alt='react' src='https://img.shields.io/badge/react-100000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=FFFFFF&color=FFFFFF'/>
+  <img alt='php' src='https://img.shields.io/badge/php-100000?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=FFFFFF&color=FFFFFF'/>
+   <img alt='react' src='https://img.shields.io/badge/react-100000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=FFFFFF&color=FFFFFF'/>
+<img alt='Node.js' src='https://img.shields.io/badge/Node.js-100000?style=for-the-badge&logo=Node.js&logoColor=7377AE&labelColor=FFFFFF&color=FFFFFF'/>
   <img alt='html5' src='https://img.shields.io/badge/html-100000?style=for-the-badge&logo=html5&logoColor=DC4A25&labelColor=FFFFFF&color=FFFFFF'/>
-  <img alt='css3' src='https://img.shields.io/badge/CSS-100000?style=for-the-badge&logo=css3&logoColor=146EB0&labelColor=FFFFFF&color=FFFFFF'/>
-   <img alt='css3' src='https://img.shields.io/badge/nodejs-100000?style=for-the-badge&logo=nodejs&logoColor=5FA04E&labelColor=FFFFFF&color=FFFFFF'/>
+  <img alt='sass' src='https://img.shields.io/badge/sass-100000?style=for-the-badge&logo=sass&logoColor=CC6699&labelColor=FFFFFF&color=FFFFFF'/>
 </div>
 
 ###
 
-<h2 align="left">소통은</h2>
+<h2 align="left">Links</h2>
 
 ###
 
@@ -35,4 +36,7 @@
   <a href='https://github.com/selinakk' target="_blank"><img alt='github' src='https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=000000&labelColor=FFFFFF&color=FFFFFF'/></a>
 </div>
 
+
 ###
+
+  <img src="https://visitcount.itsvg.in/api?id=selinakk&label=Profile%20Views&color=12&icon=3&pretty=true" />
