@@ -1,11 +1,7 @@
 # 안녕하세요 김시윤입니다👩🏻‍💻
-저의 Github 프로필에 방문해 주셔서 감사합니다
-<br/><br/>
-
-<h2 align="left">Stats</h2>
+<br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=selinakk&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="streak graph"  />&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=selinakk&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=selinakk&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
 
@@ -15,6 +11,7 @@
   <img alt='spring' src='https://img.shields.io/badge/spring-100000?style=for-the-badge&logo=spring&logoColor=78BC21&labelColor=FFFFFF&color=FFFFFF'/>
   <img alt='mysql' src='https://img.shields.io/badge/mysql-100000?style=for-the-badge&logo=mysql&logoColor=407297&labelColor=FFFFFF&color=FFFFFF'/>
   <img alt='javascript' src='https://img.shields.io/badge/JAVASCRIPT-100000?style=for-the-badge&logo=javascript&logoColor=EFD250&labelColor=FFFFFF&color=FFFFFF'/>
+  <img alt='Linux' src='https://img.shields.io/badge/linux-100000?style=for-the-badge&logo=linux&logoColor=448fd1&labelColor=ffffff&color=FFFFFF'/>
   <img alt='php' src='https://img.shields.io/badge/php-100000?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=FFFFFF&color=FFFFFF'/>
    <img alt='react' src='https://img.shields.io/badge/react-100000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=FFFFFF&color=FFFFFF'/>
 <img alt='Node.js' src='https://img.shields.io/badge/Node.js-100000?style=for-the-badge&logo=Node.js&logoColor=7377AE&labelColor=FFFFFF&color=FFFFFF'/>
