@@ -13,28 +13,23 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-
           filename: github-metrics.svg
           user: selinakk
-
           template: classic
           base: header, activity
-
-          plugin_activity: yes
-          plugin_activity_filter: push
-          plugin_activity_days: 365
-          plugin_activity_limit: 1
-
+          config_activity_limit: 1
+          config_activity_commit: yes
+          config_activity_pull_request: no
+          config_activity_issue: no
+          config_activity_review: no
           plugin_languages: yes
           plugin_languages_limit: 5
-          plugin_languages_sections: most-used
           plugin_languages_details: percentage
           plugin_languages_indepth: yes
-
-          plugin_streak: yes
+          plugin_activity: no
+          plugin_streak: no
           plugin_followup: no
           plugin_licenses: no
           plugin_sponsors: no
-
           config_theme: github_dark
           config_display: large
