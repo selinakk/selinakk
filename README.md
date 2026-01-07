@@ -24,6 +24,6 @@
 <h2 align="center">Links</h2>
 <div align="center">
 <a href='mailto:rosereaseoul@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/gmail-100000?style=for-the-badge&logo=gmail&logoColor=EA4336&labelColor=15141a&color=15141a'/></a>
-  <a href='https://selinakk.github.io' target="_blank"><img alt='github' src='https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=000000&labelColor=15141a&color=15141a'/></a>
+  <a href='https://selinakk.github.io' target="_blank"><img alt='github' src='https://img.shields.io/badge/GITHUB-100000?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=15141a&color=15141a'/></a>
 </div>
 
